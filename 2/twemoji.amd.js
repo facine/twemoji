@@ -1,1 +1,0 @@
-../v/latest/twemoji.amd.js
